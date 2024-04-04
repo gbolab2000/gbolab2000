@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+# Gbola Bilesanmi
+**Dveloping Web Developer** | **Open Source Enthusiast**
+
+I'm driven by the intersection of creativity and strategy.  Marketing allows me to craft compelling messages, while web development provides the tools to build engaging online experiences.  Advertising, in particular, marries these aspects, letting me create targeted campaigns that resonate with audiences.  I'm eager to contribute my skills and enthusiasm to a team that thrives in this dynamic space.
+
+
 <!--
 **gbolab2000/gbolab2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
