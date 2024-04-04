@@ -9,6 +9,19 @@ A personal website to showcase my web development skills and marketing knowledge
 Learning a new coding languages, (HTML,CSS,Javascript) to expand my web development skillset.
 Developing a mock advertising campaign for a fictional product, utilising data analysis to target a specific demographic. 
 
+## Skills
+
+* Programming Languages: HTML,CSS, JavaScript (React, Node.js), Java
+* Advertsing: Google Ads, Facebook Ads
+* Version Control: Git
+
+## Let's Connect!
+
+* Email: gbola@spearingmedia.co.uk
+* LinkedIn: https://www.linkedin.com/in/spearingmedia/
+
+
+
 
 <!--
 **gbolab2000/gbolab2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
