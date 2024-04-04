@@ -5,6 +5,10 @@
 
 I'm driven by the intersection of creativity and strategy.  Marketing allows me to craft compelling messages, while web development provides the tools to build engaging online experiences.  Advertising, in particular, marries these aspects, letting me create targeted campaigns that resonate with audiences.  I'm eager to contribute my skills and enthusiasm to a team that thrives in this dynamic space.
 
+A personal website to showcase my web development skills and marketing knowledge. 
+Learning a new coding languages, (HTML,CSS,Javascript) to expand my web development skillset.
+Developing a mock advertising campaign for a fictional product, utilising data analysis to target a specific demographic. 
+
 
 <!--
 **gbolab2000/gbolab2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
